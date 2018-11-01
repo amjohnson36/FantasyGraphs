@@ -1,6 +1,6 @@
 # Fantasy Football Graphs Repository
 
-This is a program used to collect data from the [ESPN Fantasy Football Api](http://games.espn.com/ffl/api/v2/scoreboard) for ESPN fantasy leagues. More information can be found at the reddit post here.
+This is a program used to collect data from the [ESPN Fantasy Football Api](http://games.espn.com/ffl/api/v2/scoreboard) for ESPN fantasy leagues. More information can be found at the reddit post [here](https://www.reddit.com/r/fantasyfootball/comments/9taxmd/oc_i_wrote_a_python_program_to_graph_each_teams/).
 
 <h2> Libraries Used </h2> 
 
