@@ -1,6 +1,6 @@
 # Fantasy Football Graphs Repository
 
-This is a program used to collect data from the [ESPN Fantasy Football Api](http://games.espn.com/ffl/api/v2/scoreboard) for ESPN fantasy leagues. 
+This is a program used to collect data from the [ESPN Fantasy Football Api](http://games.espn.com/ffl/api/v2/scoreboard) for ESPN fantasy leagues. More information can be found at the reddit post here.
 
 <h2> Libraries Used </h2> 
 
@@ -24,7 +24,4 @@ The leagueID can be found by looking at the value in the URL on your leagues pag
 ![leagueID](https://i.imgur.com/PV2SXsT.png)
 
 If your league is private, the swid and espn_s2 values can be found by looking at your cookies for espn.com (Thanks again to Steven Morse for figuring this out)
-
-<h2> Logic </h2>
-
 
