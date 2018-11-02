@@ -27,5 +27,5 @@ def graphPlayers(players):
         plt.yticks(np.arange(0, 230, 25))
         plt.title('{}'.format(player.name))
         plt.legend((p1[0], p2[0]), ("Points","Max Potential Points"), loc=1)
-        plt.savefig('graphs/{}.jpg'.format(player.name), dpi=300)
+        plt.savefig('graphs/{}.png'.format(player.name), dpi=300)
         plt.close()
