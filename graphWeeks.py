@@ -25,5 +25,5 @@ def graphWeeks(players, weeks, leagueSize):
         plt.xticks(index, n)
         plt.ylabel('Points')
 
-        plt.savefig('graphs/Week {}.jpg'.format(week+1), dpi=300)
+        plt.savefig('graphs/Week {}.png'.format(week+1), dpi=300)
         plt.close()
